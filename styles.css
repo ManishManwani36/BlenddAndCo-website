@@ -554,7 +554,8 @@ footer {
     }
 
     .landing__image--mask {
-        width: 260px;
+        margin-top: 60px;
+        width: 200px;
     }
     
     .landing__page--links--section {
@@ -588,7 +589,8 @@ footer {
 
     .booking__info {
         display: flex;
-        flex-wrap: wrap;
+        flex-direction: column;
+        align-items: center;
         justify-content: center;
     }
 
