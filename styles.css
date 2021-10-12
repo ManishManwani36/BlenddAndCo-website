@@ -21,6 +21,10 @@
 
 }
 
+.booking__button:hover {
+    cursor: no-drop;
+}
+
 html,body
 {
     background-color: #F2EAEB;
